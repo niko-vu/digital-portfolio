@@ -129,13 +129,6 @@ blockquote .workcontainer {
     align-items: center;
 }
 
-/* individual section classes */
-.about-me {
-}
-
-.work {
-}
-
 .contact p, li, ul, a {
     display: flex;
     justify-content: space-around;
