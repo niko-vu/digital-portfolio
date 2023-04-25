@@ -129,13 +129,6 @@ blockquote .workcontainer {
     align-items: center;
 }
 
-/* individual section classes */
-.about-me {
-}
-
-.work {
-}
-
 .contact p, li, ul, a {
     display: flex;
     justify-content: space-around;
@@ -160,16 +153,6 @@ img:hover {
     border: solid var(--teal) 3px;
     border-radius: 5px;
     height: auto;
-}
-
-.overlay {
-    position: absolute;
-    background: var(--purple);
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    transition: .5s ease;
-    opacity: 0;
 }
 
 footer {
