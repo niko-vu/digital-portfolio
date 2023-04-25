@@ -28,7 +28,11 @@ Click [here](https://niko-vu.github.io/digital-portfolio/) for the deployed appl
 
 ## Credits
 
-* xyz
+* [smooth scroll](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1)
+* [centering my site](https://www.w3schools.com/howto/howto_css_center_website.asp)
+* [media rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.php)
+* [blockquote](https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/)
+
 
 ## License
 
