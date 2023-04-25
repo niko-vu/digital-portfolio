@@ -110,6 +110,7 @@ section h1 {
 
 section h1::after {
     content: "...";
+    padding-left: 2px;
 }
 
 section p {
