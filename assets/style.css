@@ -75,6 +75,23 @@ section p {
     margin-left: 20px;
     }
 
+.avatar {
+    display: inline;
+    position: relative;
+    opacity: 1;
+    border: dashed var(--color0) 3px;
+    border-radius: 5px;
+    width: 125px;
+    height: auto;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.about-me p {
+    position: relative;
+    margin-top: 0px;
+}
+
 /* images */
 .work-banners-big {
     opacity: 1;
@@ -96,7 +113,7 @@ section p {
     margin-right: 8px;
     }
 
-img:hover {
+.work-banners:hover, .work-banners-big:hover {
     opacity: .85;
     border: solid var(--color2) 3px;
     border-radius: 5px;
