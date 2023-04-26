@@ -72,6 +72,7 @@ section h1::after {
 
 section p {
     font-size: 22px;
+<<<<<<< HEAD
     margin-left: 20px;
     }
 
@@ -97,6 +98,55 @@ section p {
     }
 
 img:hover {
+    opacity: .85;
+    border: solid var(--color2) 3px;
+    border-radius: 5px;
+    height: auto;
+    }
+=======
+    margin-left: 20px;
+    }
+
+.avatar {
+    display: inline;
+    position: relative;
+    opacity: 1;
+    border: dashed var(--color0) 3px;
+    border-radius: 5px;
+    width: 125px;
+    height: auto;
+    margin: 5px;
+    margin-left: 20px;
+}
+>>>>>>> baedb75e85d92341b155ec1f9e476d493ce46063
+
+.about-me p {
+    position: relative;
+    margin-top: 0px;
+}
+
+/* images */
+.work-banners-big {
+    opacity: 1;
+    border: solid var(--color0) 3px;
+    border-radius: 5px;
+    width: 820px;
+    height: auto;
+    margin: 5px;
+    margin-right: 8px;
+    }
+
+.work-banners {
+    opacity: 1;
+    border: solid var(--color0) 3px;
+    border-radius: 5px;
+    width: 400px;
+    height: auto;
+    margin: 5px;
+    margin-right: 8px;
+    }
+
+.work-banners:hover, .work-banners-big:hover {
     opacity: .85;
     border: solid var(--color2) 3px;
     border-radius: 5px;
