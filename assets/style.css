@@ -119,6 +119,11 @@ img:hover {
     margin-top: 0px;
 }
 
+.about-me a {
+    font-size: 22px;
+    display: inline;
+}
+
 /* images */
 .work-banners-big {
     opacity: 1;
