@@ -22,7 +22,7 @@ xyz
 
 The deployed application should look something like this:
 
-![Screenshot of the application.](/assets/images/screenshot.png)
+![Screenshot of the application.](/assets/media/screenshot.png)
 
 Click [here](https://niko-vu.github.io/digital-portfolio/) for the deployed application.
 
