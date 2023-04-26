@@ -72,7 +72,6 @@ section h1::after {
 
 section p {
     font-size: 22px;
-<<<<<<< HEAD
     margin-left: 20px;
     }
 
@@ -103,9 +102,6 @@ img:hover {
     border-radius: 5px;
     height: auto;
     }
-=======
-    margin-left: 20px;
-    }
 
 .avatar {
     display: inline;
@@ -116,8 +112,8 @@ img:hover {
     width: 125px;
     height: auto;
     margin: 5px;
+    margin-left: 20px;
 }
->>>>>>> baedb75e85d92341b155ec1f9e476d493ce46063
 
 .about-me p {
     margin-top: 0px;
