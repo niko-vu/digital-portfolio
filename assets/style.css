@@ -96,7 +96,7 @@ section p {
     margin-right: 8px;
     }
 
-img:hover {
+.work-banners:hover, .work-banners-big:hover {
     opacity: .85;
     border: solid var(--color2) 3px;
     border-radius: 5px;
@@ -120,7 +120,6 @@ img:hover {
 }
 
 .about-me a {
-    font-size: 22px;
     display: inline;
 }
 
@@ -292,7 +291,7 @@ section p {
     margin-right: 8px;
     }
 
-img:hover {
+.work-banners:hover, .work-banners-big:hover {
     opacity: .85;
     border: solid var(--color2) 3px;
     border-radius: 5px;
@@ -417,7 +416,7 @@ section h1 {
     margin-right: 8px;
     }
 
-img:hover {
+.work-banners:hover, .work-banners-big:hover {
     opacity: .85;
     border: solid var(--color2) 3px;
     border-radius: 5px;
