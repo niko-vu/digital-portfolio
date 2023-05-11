@@ -10,7 +10,7 @@ The problem that this project solves is my lack of a portfolio to showcase my wo
 
 I learned a lot more about how to be efficient with formatting my CSS--specifically regarding my responsive design elements. I also learned a bit more about how to use flex, inline, and inline-block as display values. This project has helped me gain a better understanding of both CSS and HTML and while I'm not entirely knowledgeable on how to work with flex as a feature for my design, I am a little better than I was before!
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
